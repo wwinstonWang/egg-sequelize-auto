@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-auto",
+  "name": "egg-sequelize-auto",
   "version": "0.4.29",
   "description": "Automatically generate bare sequelize models from your database.",
   "main": "index",
